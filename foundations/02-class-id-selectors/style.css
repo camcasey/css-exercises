@@ -1,0 +1,20 @@
+.odd{
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+/*"DejaVu Sans" uses "" because it has a space!  */
+
+.cool{
+    font-size: 24px;
+}
+
+#second{
+    color: blue;
+    font-size: 36px;
+}
+
+#fourth{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
